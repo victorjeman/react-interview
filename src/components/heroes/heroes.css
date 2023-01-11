@@ -1,0 +1,18 @@
+.heroes {
+  list-style: none;
+  padding: 0;
+}
+
+.heroes-container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 30px auto;
+}
+
+.filters {
+  padding: 15px;
+  border: 4px solid #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

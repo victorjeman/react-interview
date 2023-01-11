@@ -1,0 +1,9 @@
+.role-filters {
+  padding: 0;
+  list-style: none;
+}
+
+.role-filters-item {
+  display: inline-block;
+  padding: 5px 10px;
+}

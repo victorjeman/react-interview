@@ -1,0 +1,17 @@
+.atr-filters {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.atr-filters-item {
+  display: inline-block;
+}
+
+.atr-filters-button {
+  padding: 10px 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: 3px solid #000;
+  cursor: pointer;
+}
