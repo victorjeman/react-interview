@@ -7,6 +7,7 @@
 
 3. 
 - Add some CSS to the `<Heroes />` component so that your heroes would be displayed in a grid with 6 items in each row. 
+- The space between items in the grid should be `10px`
 
 4. 
 - Use the `<AttrFilters />` components to filter the hero list based on their primary attribute (`primary_attr`)
